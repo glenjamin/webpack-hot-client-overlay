@@ -1,0 +1,9 @@
+{
+  "extends": ["eslint:recommended"],
+  "globals": {
+    "__hotClientOptions__": false
+  },
+  "parserOptions": {
+    "ecmaVersion": 6
+  }
+}

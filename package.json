@@ -1,0 +1,26 @@
+{
+  "name": "@glenjamin/webpack-hot-client-overlay",
+  "version": "1.0.0",
+  "description": " An overlay for webpack-hot-client",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint . --max-warnings 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glenjamin/webpack-hot-client-overlay.git"
+  },
+  "author": "Glen Mailer <glen@stainlessed.co.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glenjamin/webpack-hot-client-overlay/issues"
+  },
+  "homepage": "https://github.com/glenjamin/webpack-hot-client-overlay#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  },
+  "dependencies": {
+    "ansi-html": "0.0.7",
+    "html-entities": "^1.2.1"
+  }
+}
